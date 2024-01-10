@@ -10,7 +10,7 @@ Primer proyecto individual
 <img src="https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png"  height=300>
 </p>
 
-¡Bienvenidos a la resolucion del primer proyecto individual de SoyHenry por Pedro Franke, situándonos en el rol de un ***MLOps Engineer***.  
+¡Bienvenidos a la resolucion del primer proyecto individual de SoyHenry por Mariela Bracamonte, situándonos en el rol de un ***MLOps Engineer***.  
 
 <hr>  
 
